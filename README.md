@@ -6,7 +6,7 @@
 
 </div>
 
-## Profile views: ![Profile views](https://komarev.com/ghpvc/?username=kai-chun-lin)
+## Profile views:![Profile views](https://komarev.com/ghpvc/?username=kai-chun-lin)
 
 ### 🧑‍💻 Most Recent Work
 I recently applied artificial intelligence techniques to enhance thermal imagery. I developed and implemented deep-learning models that improved the quality and clarity of thermal images.
