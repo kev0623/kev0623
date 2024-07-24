@@ -18,9 +18,7 @@ I'm currently learning about Machine Learning and Neural Networks.
 [Resume](https://drive.google.com/file/d/1KWbYfA2TrOUh8CAoQ1_LqDnICk6T88zA/view?usp=sharing)
 
 ### ⚡ Fun Fact
-I was a Google Step intern this past summer! I worked on the Firebase Team and made a website as a side project using Firebase: [sites2cwebsite](https://sites2website.com)
-
-This summer, I will be working at Netflix as a SWE intern on the Content Promotion and Distribution Team.
+I was on the national tennis team in Taiwan. Feel free to invite me to play tennis~
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kai-chun/)
