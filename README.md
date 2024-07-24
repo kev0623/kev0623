@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kai Chun Lin
 
-<h2>I'm currently a junior Computer Science and Mathematics major at Rose-Hulman. </h2>
+<h4>I'm currently a junior Computer Science and Mathematics major at Rose-Hulman. </h4>
 
 </div>
 
