@@ -3,6 +3,7 @@
 # Hi 👋, I'm Kai Chun Lin
 
 <h2>I'm currently a junior Computer Science and Mathematics major at Rose-Hulman. </h2>
+
 </div>
 
 ## Profile views: ![Profile views](https://komarev.com/ghpvc/?username=kai-chun-lin)
