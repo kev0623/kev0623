@@ -22,7 +22,7 @@ I was on the national tennis team in Taiwan. Feel free to invite me to play tenn
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kai-chun/)
-[![Instagram](https://img.shields.io/badge/GitHub-Follow-black)](https://www.instagram.com/kevin6230k6/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevin6230k6/)
 
 
 <!---
