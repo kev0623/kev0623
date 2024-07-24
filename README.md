@@ -2,9 +2,10 @@
 
 # Hi 👋, I'm Kai Chun Lin
 
-I'm currently a junior Computer Science and Mathematics major at Rose-Hulman.
+# I'm currently a junior Computer Science and Mathematics major at Rose-Hulman.
 
 </div>
+
 ## Profile views: ![Profile views](https://komarev.com/ghpvc/?username=kai-chun-lin)
 
 ### 🧑‍💻 Most Recent Work
