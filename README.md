@@ -19,7 +19,7 @@ I'm currently learning about Machine Learning and Neural Networks.
 - **LinkedIn**: [linkedin.com/in/kai-chun-lin/](https://www.linkedin.com/in/kai-chun/)
 
 ### 📄 Know About My Experiences
-[Resume](https://drive.google.com/drive/home)
+[Resume]([https://drive.google.com/drive/home](https://drive.google.com/file/d/1TNrCww3HfZqPsUFVkx25vggj9cqy01vt/view?usp=sharing))
 
 ### ⚡ Fun Fact
 I was on the national tennis team in Taiwan. Feel free to invite me to play tennis~
